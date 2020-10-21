@@ -1,0 +1,23 @@
+COMO SUBIR UMA APLICAÇÃO DEPLOYADA: 
+
+Bom serei sincero se eu fosse explicar eu não saberia, então decidi procurar um tutorial no google de como fazer isso, então eu prefiro dizer o que eu faria do que 
+como subir a aplicação. 
+
+Eu entraria no google e testaria o passo a passo do seguinte tutorial: https://medium.com/@becosta/https-medium-com-becosta-fazendo-deploy-de-um-app-react-para-o-heroku-45ff30003c4a
+
+Se funcionasse beleza, se não partiria para outro tutorial, talvez no Stack Overflow, afinal ninguém é de aço né srsrs...
+
+
+
+
+COMO RODAR ESSA APLICAÇÃO: 
+
+Instale o Bootstrap para React: GUIA DE COMO FAZER ISSO ----->  https://react-bootstrap.github.io/getting-started/introduction/
+
+Instale o json-server: GUIA DE COMO FAZER ISSO -----> https://www.fabricadecodigo.com/json-server/ 
+PS:Use o db.json na pasta db.json aqui do arquivo :)
+
+
+É isso, acredito que tudo tenha sido feito vlw 
+
+Por favor, aguardo uma resposta.
